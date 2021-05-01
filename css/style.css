@@ -4,3 +4,12 @@ body {
   color: black;
   text-align: center;
 }
+.github {
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+
+}
+.github a {
+  text-decoration: none;
+  color: black;
+}
